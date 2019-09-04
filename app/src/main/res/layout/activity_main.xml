@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="1"
+    android:rowCount="7"
+    android:useDefaultMargins="true"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_columnSpan="1"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/titTexto" />
+
+    <TextView
+        android:id="@+id/gasTextView"
+        android:layout_width="wrap_content"
+        android:layout_columnSpan="1"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/gasTexto" />
+
+    <SeekBar
+        android:id="@+id/gasSeekBar"
+        android:layout_width="wrap_content"
+        android:layout_columnSpan="1"
+        android:layout_gravity="fill_horizontal"
+        android:max="500" />
+
+    <TextView
+        android:id="@+id/etnTextView"
+        android:layout_width="wrap_content"
+        android:layout_columnSpan="1"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/etnTexto" />
+
+    <SeekBar
+        android:id="@+id/etnSeekBar"
+        android:layout_width="wrap_content"
+        android:layout_columnSpan="1"
+        android:layout_gravity="fill_horizontal"
+        android:max="500" />
+
+    <TextView
+        android:id="@+id/resTextView"
+        android:layout_width="wrap_content"
+        android:layout_columnSpan="1"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/resTexto" />
+
+    <ImageView
+        android:id="@+id/calcImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="500dp"
+        android:layout_columnSpan="1"
+        android:layout_gravity="center_horizontal|top"
+        android:foreground="@android:color/transparent"
+        app:srcCompat="@drawable/calculadora" />
+</GridLayout>
