@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Economize Combustível</string>
+    <string name="app_name" translatable="false">Economize Combustível</string>
     <string name="titTexto">Deslize para calcular</string>
     <string name="gasTexto">Preço do litro da gasolina:</string>
     <string name="etnTexto">Preço do litro do etanol:</string>
-    <string name="resTexto"></string>
+    <string name="resTexto">Abasteça com:</string>
     <string name="resGasTexto">Gasolina</string>
     <string name="resEtnTexto">Etanol</string>
 </resources>

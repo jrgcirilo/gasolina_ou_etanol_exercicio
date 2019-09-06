@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Economize Combustível</string>
+    <string name="etnTexto">Price of liter of ethanol</string>
+    <string name="gasTexto">Price of liter of gasoline</string>
+    <string name="resGasTexto">Gasoline</string>
+    <string name="resEtnTexto">Ethanol</string>
+    <string name="resTexto">Fuel with</string>
+    <string name="titTexto">Swipe to calculate</string>
+</resources>
