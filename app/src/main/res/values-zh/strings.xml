@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Economize Combustível</string>
+    <string name="etnTexto">一升乙醇的價格</string>
+    <string name="gasTexto">汽油升價</string>
+    <string name="resGasTexto">汽油</string>
+    <string name="resEtnTexto">乙醇</string>
+    <string name="resTexto">加油</string>
+    <string name="titTexto">滑動計算</string>
+</resources>

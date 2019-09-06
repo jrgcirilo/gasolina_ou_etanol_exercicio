@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Economize Combustível</string>
+    <string name="etnTexto">Precio de un litro de etanol</string>
+    <string name="gasTexto">Precio del litro de gasolina</string>
+    <string name="resGasTexto">Gasolina</string>
+    <string name="resEtnTexto">Etanol</string>
+    <string name="resTexto">Combustible con</string>
+    <string name="titTexto">Desliza para calcular</string>
+</resources>
